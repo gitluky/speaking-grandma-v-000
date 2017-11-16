@@ -7,7 +7,6 @@ def speak_to_grandma(say)
   else
     'NO, NOT SINCE 1938!'
   end
-
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
